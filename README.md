@@ -117,17 +117,6 @@ A Python implementation of the **Technique for Order Preference by Similarity to
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Daksh1105&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh1105&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -149,15 +138,6 @@ A Python implementation of the **Technique for Order Preference by Similarity to
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Daksh1105&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 # 🧠 Current Focus
 
@@ -211,15 +191,6 @@ A Python implementation of the **Technique for Order Preference by Similarity to
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Daksh1105/Daksh1105/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 
 <p align="center">
 
