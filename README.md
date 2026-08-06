@@ -138,6 +138,12 @@ A Python implementation of the **Technique for Order Preference by Similarity to
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dakshg1105/Daksh1105/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 
 # 🧠 Current Focus
 
